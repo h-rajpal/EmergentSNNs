@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Brian2 code-generation cache (if pointed inside the repo)
+output/
+brian_debug_*.log
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# AI coding agents
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.cursor/
+.cursorrules
+.aider*
+.codex/
+.gemini/
+.copilot/
+AGENTS.md
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
